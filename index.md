@@ -14,4 +14,33 @@ Evidence from Consumer Credit Markets</h1>
 <li><a href="http://faculty.chicagobooth.edu/seth.zimmerman/research/papers/LNOZ_Online_Appendix.pdf" class="button fit">Online Appendix</a></li>
 </ul>
 
+<hr>
+
+
+# Motivation
+
+**Credit registries collect and disseminate repayment histories, but with *limits***. For example, there is limited duration of bankruptcy and default flags.
+The reasons behind this include privacy, fairness and insurance against defaults, among others.
+Recent research on this topic shows that **borrowing increases for beneficiaries of these limits.**
+
+Is there a free lunch?
+What happens to non-beneficiaries and in aggregate?
+
+
+# This paper
+
+**What are the aggregate and distributional effects of limits to credit information on consumer borrowing.**
+
+In order to tackle this question, we exploit a large scale "clean-slate" policy change in Chile, where credit registries were forced to stop reporting defaults for most defaulters (21% of adults).
+This meant that banks were unable to tell if a person was in default.
+Using data on the universe of bank borrowers, we apply machine learning techniques and a difference-in-difference strategy to answer the main question.
+We find that:
+
+1. Policy increases (decreases) expected costs for borrowers not in default (in default)
+2. Reduced (increased) borrowing among non-defaulters (defaulters), with a net effect of a 4% aggregate drop in new borrowing
+3. Interpret with simple adverse selection framework, welfare loss under several assumptions for banking sector mark-ups.
+
+
+# Dive deeper
+
 {% include tiles.html %}
