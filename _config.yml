@@ -13,8 +13,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Logo settings
-logo-image-url: <i class="far fa-credit-card"></i>
-font-awesome-icon-logo:
+logo-image-url:
+font-awesome-icon-logo: "fa-credit-card"
 
 # Social settings
 github_username: credit-information
