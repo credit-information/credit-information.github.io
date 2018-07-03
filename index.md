@@ -29,7 +29,7 @@ What happens to non-beneficiaries and in aggregate?
 
 # This paper
 
-**What are the aggregate and distributional effects of limits to credit information on consumer borrowing.**
+**What are the aggregate and distributional effects of limits to credit information on consumer borrowing?**
 
 In order to tackle this question, we exploit a large scale "clean-slate" policy change in Chile, where credit registries were forced to stop reporting defaults for most defaulters (21% of adults).
 This meant that banks were unable to tell if a person was in default.
