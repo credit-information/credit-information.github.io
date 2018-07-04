@@ -59,6 +59,6 @@ We find that:
 </div>
 </div>
 
-# Dive deeper
+<!-- # Dive deeper -->
 
-{% include tiles.html %}
+<!-- {% include tiles.html %} -->
