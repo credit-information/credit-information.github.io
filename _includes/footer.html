@@ -43,11 +43,11 @@
 		<section>
 			<h2>About the authors</h2>
 			{% for author in site.data.authors %}
-				<p style="display:inline">
+				<p style="margin-bottom:.75em">
 					{{ author.name }} is at {{ author.affiliation }}</br>
 					<a href="mailto:{{ author.email }}">
 					{{ author.email }}
-				</a></p></br>
+				</a></p>
 			{% endfor %}
 		</section>
 		<ul class="copyright">
