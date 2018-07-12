@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: The Equilibrium Effects of Asymmetric Information
 ---
 
 <header>
