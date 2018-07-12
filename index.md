@@ -54,7 +54,7 @@ We find that:
 <div class="box alt">
 <div class="row uniform">
 <div class="4u"><span class="image fit"><img src="assets/figures/count-of-defaulters.png" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="assets/figures/deletion-costs-borrowing.png" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="assets/figures/dif-in-dif.png" alt="" /></span></div>
 <div class="4u$"><span class="image fit"><img src="assets/figures/welfare-loss-heatmap.png" alt="" /></span></div>
 </div>
 </div>
