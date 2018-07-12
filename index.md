@@ -30,7 +30,7 @@ Evidence from Consumer Credit Markets</h1>
       What happens to non-beneficiaries and in aggregate?</b>
     </div>
     <div class="6u$ 12u$(medium)">
-      <span class="image fit"><img src="assets/figures/consumer-loans.png" alt="" /></span>
+      <span class="image fit"><img src="assets/figures/credit-cards.png" alt="" /></span>
     </div>
   </div>
 </section>
@@ -53,7 +53,7 @@ We find that:
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u"><span class="image fit"><img src="assets/figures/count-defaulters.png" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="assets/figures/count-of-defaulters.png" alt="" /></span></div>
 <div class="4u"><span class="image fit"><img src="assets/figures/deletion-costs-borrowing.png" alt="" /></span></div>
 <div class="4u$"><span class="image fit"><img src="assets/figures/welfare-loss-heatmap.png" alt="" /></span></div>
 </div>
